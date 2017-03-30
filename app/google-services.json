@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "814410115672",
+    "firebase_url": "https://logintest-b136b.firebaseio.com",
+    "project_id": "logintest-b136b",
+    "storage_bucket": "logintest-b136b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814410115672:android:0db60b85620d49ac",
+        "android_client_info": {
+          "package_name": "com.example.john.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814410115672-k1v8gjr4o42avm3c3vngvcgpvth7jl6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZKvDPkuFn-BoTQBZqgsRwtMjGHf1X_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
